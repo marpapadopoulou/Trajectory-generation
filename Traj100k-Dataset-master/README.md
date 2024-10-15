@@ -1,5 +1,5 @@
 # Traj100k-Dataset
-The simulation dataset for Robot Trajectron
+The simulation dataset for Collaborative Trajectron
 
 ### Environment
 
